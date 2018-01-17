@@ -1,11 +1,20 @@
 #Sofia's Git Course
 
+##Assignments
+Midterm 30 % of final grade
+Final 50 % of final grade
+Class participation 20 % of final grade
+
 ##Readings
 **Week 1**
-Sedergren, S. *Basics for learning Git*
 Booker, R.K. *Basics to GitHub*
+Sedergren, S. *Basics for learning Git*
 
 **Week 2**
 Command, L. *Command Line Basics*
-Bernt, R. *Sublime Text Edit*
-Hansson, C. *Why Not to Use Microsoft Word*
+Hansson, R. *Why Not to Use Microsoft Word*
+Virtanen, K. *Sublime Text Edit*
+
+**Week 3**
+Hansson, I. *The GitHub Community*
+Sedergren, E. "The Positive Sides of Forking your Work"
