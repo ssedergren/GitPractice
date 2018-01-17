@@ -1,11 +1,11 @@
-#Sofia's Git Course
+# Sofia's Git Course
 
-##Assignments
+## Assignments
 Midterm 30 % of final grade
 Final 50 % of final grade
 Class participation 20 % of final grade
 
-##Readings
+## Readings
 **Week 1**
 Booker, R.K. *Basics to GitHub*
 Sedergren, S. *Basics for learning Git*
